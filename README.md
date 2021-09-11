@@ -2,7 +2,10 @@
 
 
 ## Description
-This repository contains the data, code and figures for the manuscript "Modelling the impact of preventive measures on the transmission of SARS-CoV-2 in secondary schools in the Netherlands" by Thi Mui Pham^*, Andrea C. Büchler^*, Anne F. Voor in ‘t holt, Juliëtte A. Severin, Martin C.J. Bootsma, Diederik Gommers, Mirjam E. Kretzschmar^*, Margreet C. Vos^*.
+This repository contains the data, code and figures for the manuscript "Modelling the impact of preventive measures on the transmission of SARS-CoV-2 in secondary schools in the Netherlands" by Thi Mui Pham<sup>*<\sup>, Andrea C. Büchler<sup>*<\sup>, Anne F. Voor in ‘t holt, Juliëtte A. Severin, Martin C.J. Bootsma, Diederik Gommers, Mirjam E. Kretzschmar<sup>*<\sup>, Margreet C. Vos<sup>*<\sup>.
+
+<sup>*<\sup> These authors contributed equally to this work.
+
 
 ## Correspondence
 Corresponding author for the code of this work: Thi Mui Pham, E-mail: t.m.pham-2@umcutrecht.nl
