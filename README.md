@@ -5,17 +5,15 @@
 This repository contains the data, code and figures for the manuscript "Modelling the impact of preventive measures on the transmission of SARS-CoV-2 in secondary schools in the Netherlands" by Thi Mui Pham^*, Andrea C. Büchler^*, Anne F. Voor in ‘t holt, Juliëtte A. Severin, Martin C.J. Bootsma, Diederik Gommers, Mirjam E. Kretzschmar^*, Margreet C. Vos^*.
 
 ## Correspondence
-Corresponding author for the code of this work: Thi Mui Pham
+Corresponding author for the code of this work: Thi Mui Pham, E-mail: t.m.pham-2@umcutrecht.nl
 
-Corresponding authors of this work: Prof. Dr. Margreet C. Vos. 
+Corresponding authors of this work: Prof. Dr. Margreet C. Vos, E-mail: m.vos@erasmusmc.nl
 
 Department of Medical Microbiology and Infectious Diseases  
 
 Erasmus MC University Medical Centre Rotterdam 
 
 P.O. Box 2040, 3000 CA, Rotterdam, The Netherlands
-
-E-mail: m.vos@erasmusmc.nl. Telephone: +31 10 703 35 1
 
 
 ## Abstract
